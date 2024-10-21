@@ -10,6 +10,7 @@ LAYOUT
 body { min-width:100%; margin:0 auto; }
 ul { list-style-type:none; }
 a { text-decoration:none; }
+.dn { display:none; }
 
 .header-inner { position:relative; max-width:1840px; width:100%; margin:0 auto; padding:0 20px; line-height:1; box-sizing:border-box;   }
 .footer-inner { background:grey; box-sizing:border-box; }

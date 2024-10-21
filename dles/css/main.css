@@ -58,7 +58,7 @@
 .main-box3 { padding:100px 0; }
 .main-box4 { padding:40px 0; background:var(--main-color); }
 .main-box5 { padding:70px 0 100px; }
-.main-box6 {  padding:70px 0 100px; background:var(--main-color); }
+.main-box6 { padding:70px 0 100px; background:var(--main-color); }
 
 /* 타이틀 공통 */
 #main .main-title { position:relative; display:flex; justify-content:center; padding:0 0 65px; line-height:1; }
@@ -74,7 +74,8 @@
 .btn-box > * { display:flex; justify-content:center; align-items:center; width:210px; height:55px; margin:0 25px; border: 1px solid var(--main-color); border-radius:50px; cursor:pointer; transition:0.4s ease-in-out; }
 .btn-box > .link-btn { width:180px; height:46px;}
 .btn-box > li > a { color:#121212; font-size:29px; }
-.btn-box > .link-btn a { font-size:20px;  }
+.btn-box > .link-btn a { display:block; width:100%; font-size:20px; }
+
     /* 빨간배경 */
 .btn-box > .site-btn,
 .btn-box > .link-btn:hover {  background:var(--main-color); }
