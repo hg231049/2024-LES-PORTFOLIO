@@ -1,3 +1,2 @@
-# LeeEunSeo-portfolio
-2024 Web Publisher portfolio of LeeEunSeo
-https://hg231049.github.io/LeeEunSeo-portfolio/index.html
+# 2024-PORTFOLIO-LES
+https://hg231049.github.io/2024-LES-PORTFOLIO/intro.html
